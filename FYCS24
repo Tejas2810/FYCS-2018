@@ -1,8 +1,7 @@
-#include<studio.h>
-void main()
-{
-printf("hello world..!!")
-}
-{
-printf("\nThis is the basic c language")
-}
+
+num1 = input('Enter first number')
+num2 = input('Enter second number')
+sum = float(num1) + float(num2)
+print(sum)
+
+print("hello world...!!!")
